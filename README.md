@@ -1,3 +1,3 @@
-Rocketseat NLW project june 2020
+Rocketseat NLW project (june 2020)
 
 Recycle App
